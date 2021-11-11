@@ -26,6 +26,3 @@ Google Font -  for specific font
 Font Awesome - For icon to be shown on web page
 Vue - A Javascript library which is being used for core functionality. 
 
-Thanks
-- Ashish Kumar Jha
-- 2018A7PS0173U
